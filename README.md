@@ -7,7 +7,7 @@
 
 # move your mp4 files inside the input folder
 
-# run the script #convert-mp4-to-mp3 inside the batch folder
+# run the script convert.sh inside the batch folder
 
 # the mp4 files will be converted and stored in the output folder.
 
